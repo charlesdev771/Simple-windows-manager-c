@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609296888 source:c:\users\20201041110028\desktop\cmanager\windows_c_manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
